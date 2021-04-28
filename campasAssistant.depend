@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619641781 source:e:\bscin cse\3rd semester\campasassistant\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
